@@ -1,0 +1,36 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-ModellingToolset.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Intermediate/Build/Win64/x64/TestProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/Module.ModellingToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingAssetToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingBatchToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingCapture.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingCompare.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingDeformToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingEditToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingExport.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingJob.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingJobToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingMaterialsToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingMcpTools.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingMeasureToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingPrimitivesToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingReferenceToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingSceneToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingSkill.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingToolsetModule.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingToolsetSettings.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingToolsetUtils.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingTopologyToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingVisionToolset.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingToolsetTests.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingAssistantUI.cpp.obj"
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/SModellingAssistant.cpp.obj"
+/OUT:"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/UnrealEditor-ModellingToolset.lib"

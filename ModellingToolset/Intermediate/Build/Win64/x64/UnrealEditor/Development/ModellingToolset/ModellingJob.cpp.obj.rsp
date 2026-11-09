@@ -1,0 +1,14 @@
+"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Source/ModellingToolset/Private/ModellingJob.cpp"
+@"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingToolset.Shared.rsp"
+/FI"C:/Users/nkota/Documents/Unreal Projects/TestProject/Intermediate/Build/Win64/x64/TestProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/Definitions.ModellingToolset.h"
+/Yu"C:/Users/nkota/Documents/Unreal Projects/TestProject/Intermediate/Build/Win64/x64/TestProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/nkota/Documents/Unreal Projects/TestProject/Intermediate/Build/Win64/x64/TestProjectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingJob.cpp.obj"
+/experimental:log "C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingJob.cpp.sarif"
+/sourceDependencies "C:/Users/nkota/Documents/Unreal Projects/TestProject/Plugins/ModellingToolset/Intermediate/Build/Win64/x64/UnrealEditor/Development/ModellingToolset/ModellingJob.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

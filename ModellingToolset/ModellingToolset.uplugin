@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "0.2",
+	"EngineVersion": "5.8.0",
+	"FriendlyName": "Modelling Toolset",
+	"Description": "Editor-only AI toolset (MCP) for building 3D models inside Unreal Engine: mesh creation and editing via Geometry Script, multi-angle progress screenshots, and a reference-image workflow.",
+	"Category": "Editor",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"EditorOnly": true,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "ModellingToolset",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"TargetAllowList": [ "Editor" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ToolsetRegistry",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
